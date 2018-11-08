@@ -1,1 +1,1 @@
-hearts = 3;
+hearts = 300;
