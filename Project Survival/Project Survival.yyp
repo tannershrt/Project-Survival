@@ -191,6 +191,25 @@
             }
         },
         {
+            "Key": "43ad77e1-c643-4942-88f9-df972f8d4c5c",
+            "Value": {
+                "id": "25912bec-eed5-4132-9ed1-ec94653cee22",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spritokokokoko\/spritokokokoko.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "69dfc992-01ef-4bc2-9db3-28fd5ab9c490",
             "Value": {
                 "id": "7a509cd5-8190-4b5c-930d-e81cd524133a",
