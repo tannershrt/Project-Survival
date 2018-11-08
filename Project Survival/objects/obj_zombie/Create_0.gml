@@ -1,2 +1,2 @@
-zombieHP = 100
-zombieDMG = 40
+zombieHP = 100;
+zombieDMG = 40;
