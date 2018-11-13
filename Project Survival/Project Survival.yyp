@@ -476,6 +476,25 @@
             }
         },
         {
+            "Key": "e7d16094-9814-445d-bffb-fdc3ae2beeba",
+            "Value": {
+                "id": "0ab8cb5c-9f2d-4577-af41-c52cbdffe528",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_player_bryan\/spr_player_bryan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "8a82bc14-6527-4697-88c8-8d657fb2077e",
