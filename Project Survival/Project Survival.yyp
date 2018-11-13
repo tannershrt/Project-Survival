@@ -205,7 +205,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/spritokokokoko\/spritokokokoko.yy",
+                "resourcePath": "sprites\/spr_leftheart_border\/spr_leftheart_border.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -492,6 +492,25 @@
                 ],
                 "resourcePath": "views\/e78c2db6-0c8e-4427-a4f6-ae85fde6f09c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eaa2d9eb-775b-4360-811a-71ed9801bf83",
+            "Value": {
+                "id": "ee441575-7d79-4f44-bcd7-87d0ad2dd25f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_rightheart_border\/spr_rightheart_border.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
