@@ -286,6 +286,25 @@
             }
         },
         {
+            "Key": "82011b3c-86e3-4f66-aa21-fcba416bc970",
+            "Value": {
+                "id": "adf45115-979c-4d34-8ed1-72684bc58e41",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_not_what_you_want_bryan\/spr_not_what_you_want_bryan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "85bdd525-7140-4686-9dbb-6acf90001875",
             "Value": {
                 "id": "7f5e2df5-7ceb-47bc-b2cb-9f9c21955ae9",
@@ -397,6 +416,25 @@
                 ],
                 "resourcePath": "views\/ce4290ab-868f-4671-8bfc-1f1f37d61b86.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dc3a2f18-60a1-4c76-ae0a-5c0be5f32a70",
+            "Value": {
+                "id": "cabc60f8-7a47-4295-9fb2-ca1f71a6d077",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_player_bryan\/spr_player_bryan.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
