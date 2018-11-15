@@ -1,1 +1,3 @@
-hearts -= 1;
+
+
+obj_health.thehealth -= 5;
