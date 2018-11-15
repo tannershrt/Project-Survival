@@ -31,7 +31,7 @@ if (keyboard_check(vk_lshift)) {
 
 // Checking if dead
 
-if (hearts <= 0){
+if (obj_health.thehealth <= 0){
 	game_restart();
 }
 
