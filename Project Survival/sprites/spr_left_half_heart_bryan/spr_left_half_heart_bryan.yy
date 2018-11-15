@@ -2,14 +2,14 @@
     "id": "113fbf65-ca0c-405b-9ad4-556fa5a64c3f",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_half_heart_bryan",
+    "name": "spr_left_half_heart_bryan",
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 0,
-    "bbox_left": 0,
-    "bbox_right": 0,
-    "bbox_top": 0,
+    "bbox_bottom": 63,
+    "bbox_left": 10,
+    "bbox_right": 34,
+    "bbox_top": 18,
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
@@ -38,8 +38,8 @@
             ]
         }
     ],
-    "gridX": 0,
-    "gridY": 0,
+    "gridX": 1,
+    "gridY": 1,
     "height": 64,
     "layers": [
         {
