@@ -20,13 +20,13 @@ if (keyboard_check(ord("D"))) {
 	
 if (keyboard_check(vk_lshift)) {
  	
-	if (keyboard_check(ord("D"))) x = x + 6; 
+	if (keyboard_check(ord("D"))) x = x + 2; 
 
-	if (keyboard_check(ord("A"))) x = x - 6;
+	if (keyboard_check(ord("A"))) x = x - 2;
 
-	if (keyboard_check(ord("W"))) y = y - 6;
+	if (keyboard_check(ord("W"))) y = y - 2;
 
-	if (keyboard_check(ord("S"))) y = y + 6;
+	if (keyboard_check(ord("S"))) y = y + 2;
  }
 
 if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 1 && obj_inventory.slot1Full == true){
