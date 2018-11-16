@@ -1,4 +1,4 @@
-// Movement
+ // Movement
 
 if (keyboard_check(ord("W"))) {
 	y = y - 4;
@@ -98,6 +98,31 @@ if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 5 && obj_in
 	obj_hunger.hunger += 20;
 }
 
+
+
+// shooting gun
+if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 1 && obj_inventory.slot1Full == true && obj_inventory.slot1Item == 3 && pistol_fire_rate <= 0){
+	instance_create_layer(x, y, layer, obj_bullet); 
+	pistol_fire_rate = 10;
+}
+if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 2 && obj_inventory.slot2Full == true && obj_inventory.slot2Item == 3 && pistol_fire_rate <= 0){
+	instance_create_layer(x, y, layer, obj_bullet);
+	pistol_fire_rate = 10;
+}
+if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 3 && obj_inventory.slot3Full == true && obj_inventory.slot3Item == 3 && pistol_fire_rate <= 0){
+	instance_create_layer(x, y, layer, obj_bullet);
+	pistol_fire_rate = 10;
+}
+if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 4 && obj_inventory.slot4Full == true && obj_inventory.slot4Item == 3 && pistol_fire_rate <= 0){
+	instance_create_layer(x, y, layer, obj_bullet);
+	pistol_fire_rate = 10;
+}
+if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 5 && obj_inventory.slot5Full == true && obj_inventory.slot5Item == 3 && pistol_fire_rate <= 0){
+	instance_create_layer(x, y, layer, obj_bullet);
+	pistol_fire_rate = 10;
+}
+
+pistol_fire_rate -= 1;
 
 
 // Checking if dead

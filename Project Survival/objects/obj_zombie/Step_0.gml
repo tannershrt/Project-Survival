@@ -5,8 +5,6 @@ if (instance_exists(obj_player))
 
 image_angle = direction;
 
-if (zombieHP <=0){
-	
-	with (obj_health) thehealth = thehealth - 5;
-   	instance_destroy();
+if (zombieHP <= 0){
+	instance_destroy();
 }

@@ -1,0 +1,1 @@
+pistol_fire_rate = 10;
