@@ -69,33 +69,33 @@ if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 1 && obj_in
 	obj_inventory.slot1Full = false;
 	obj_inventory.slot1Item = 0;
 	obj_inventory.numOfItems -= 1;
-	obj_hunger.hunger = 100;
+	obj_hunger.hunger += 20;
 }
 if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 2 && obj_inventory.slot2Full == true && obj_inventory.slot2Item == 2){
 	obj_inventory.slot2Full = false;
 	obj_inventory.slot2Item = 0;
 	obj_inventory.numOfItems -= 1;
-	obj_hunger.hunger = 100;
+	obj_hunger.hunger += 20;
 }
 if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 3 && obj_inventory.slot3Full == true && obj_inventory.slot3Item == 2){
 	obj_inventory.slot3Full = false;
 	obj_inventory.slot3Item = 0;
 	obj_inventory.numOfItems -= 1;
-	obj_hunger.hunger = 100;
+	obj_hunger.hunger += 20;
 }
 
 if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 4 && obj_inventory.slot4Full == true && obj_inventory.slot4Item == 2){
 	obj_inventory.slot4Full = false;
 	obj_inventory.slot4Item = 0;
 	obj_inventory.numOfItems -= 1;
-	obj_hunger.hunger = 100;
+	obj_hunger.hunger += 20;
 }
 
 if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 5 && obj_inventory.slot5Full == true && obj_inventory.slot5Item == 2){
 	obj_inventory.slot5Full = false;
 	obj_inventory.slot5Item = 0;
 	obj_inventory.numOfItems -= 1;
-	obj_hunger.hunger = 100;
+	obj_hunger.hunger += 20;
 }
 
 
