@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "0e3f1efa-5dbd-4df4-8bc0-64bc5162f435",
+            "Value": {
+                "id": "198a83e3-4801-4ed7-9aeb-1505ae989caf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_left_heart_test_bryan\/obj_left_heart_test_bryan.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0fc4bb7f-cbfc-4171-a21b-d7359189d895",
             "Value": {
                 "id": "1ceaf4ba-facb-43a2-97e9-0542f29d6488",
@@ -168,6 +187,44 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_full_heart_bryan\/spr_full_heart_bryan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "255fd6ee-6863-4763-871a-5dc4fefa1178",
+            "Value": {
+                "id": "11c0c984-1547-4e41-9045-7d6bcd6e5e1d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/bryan_test_room\/bryan_test_room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "292dca04-ef95-4be7-bec8-a7805d9c5d9b",
+            "Value": {
+                "id": "3d1bb8ba-ddca-4ce2-aa70-0e8cf43195c2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_right_half_heart_bryan\/spr_right_half_heart_bryan.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -492,6 +549,25 @@
                 ],
                 "resourcePath": "views\/ce4290ab-868f-4671-8bfc-1f1f37d61b86.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d849a0a9-fb46-44c3-afe2-d38b2410d575",
+            "Value": {
+                "id": "6369fd74-3eeb-4fe9-b538-51779806de67",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_right_heart_test_bryan\/obj_right_heart_test_bryan.yy",
+                "resourceType": "GMObject"
             }
         },
         {
