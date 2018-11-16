@@ -29,30 +29,35 @@ if (keyboard_check(vk_lshift)) {
 	if (keyboard_check(ord("S"))) y = y + 2;
  }
 
-if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 1 && obj_inventory.slot1Full == true){
+if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 1 && obj_inventory.slot1Full == true  && obj_inventory.slot1Item == 1){
 	obj_inventory.slot1Full = false;
+	obj_inventory.slot1Item = 0;
 	obj_inventory.numOfItems -= 1;
 	obj_health.thehealth = 100;
 }
-if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 2 && obj_inventory.slot2Full == true){
+if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 2 && obj_inventory.slot2Full == true && obj_inventory.slot2Item == 1){
 	obj_inventory.slot2Full = false;
+	obj_inventory.slot2Item = 0;
 	obj_inventory.numOfItems -= 1;
 	obj_health.thehealth = 100;
 }
-if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 3 && obj_inventory.slot3Full == true){
+if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 3 && obj_inventory.slot3Full == true && obj_inventory.slot3Item == 1){
 	obj_inventory.slot3Full = false;
+	obj_inventory.slot3Item = 0;
 	obj_inventory.numOfItems -= 1;
 	obj_health.thehealth = 100;
 }
 
-if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 4 && obj_inventory.slot4Full == true){
+if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 4 && obj_inventory.slot4Full == true && obj_inventory.slot4Item == 1){
 	obj_inventory.slot4Full = false;
+	obj_inventory.slot4Item = 0;
 	obj_inventory.numOfItems -= 1;
 	obj_health.thehealth = 100;
 }
 
-if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 5 && obj_inventory.slot5Full == true){
+if (mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 5 && obj_inventory.slot5Full == true && obj_inventory.slot5Item == 1){
 	obj_inventory.slot5Full = false;
+	obj_inventory.slot5Item = 0;
 	obj_inventory.numOfItems -= 1;
 	obj_health.thehealth = 100;
 }
