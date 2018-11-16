@@ -134,6 +134,25 @@
             }
         },
         {
+            "Key": "32862d46-8314-46d6-be75-ef5a9ced3f04",
+            "Value": {
+                "id": "62eb4c5c-eae1-4b5f-90a6-365a1c01527a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_drumStick\/obj_drumStick.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "358797de-f024-4d68-8946-ddf50df9ba40",
             "Value": {
                 "id": "23c8e9dd-10c0-4d34-8b5f-9fe20e3850b0",
@@ -283,6 +302,25 @@
                 ],
                 "resourcePath": "rooms\/room0\/room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6d6d2307-49ef-46f2-a9ec-e012e39ff92c",
+            "Value": {
+                "id": "493c1b19-6a69-4162-a83d-99619e101da3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_hunger\/obj_hunger.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -625,6 +663,25 @@
                 ],
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f6eaee49-5099-4f71-88fc-d24037ebfab2",
+            "Value": {
+                "id": "2ee7adb6-034e-4839-959f-f5ded2360f33",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_drumStick\/spr_drumStick.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
