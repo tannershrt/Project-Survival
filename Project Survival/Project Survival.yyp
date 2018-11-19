@@ -96,6 +96,25 @@
             }
         },
         {
+            "Key": "124bfb31-33d7-4cf0-a17c-c1b847d9aac3",
+            "Value": {
+                "id": "f845ec9a-7e29-4b16-9e1e-70c35a4163a6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/room_menu\/room_menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "13e9db50-38f8-404c-827e-9248efa9bc19",
             "Value": {
                 "id": "54dd2c80-51fc-4b51-986f-eea15faa507a",
@@ -243,7 +262,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/room_main\/room_main.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -419,6 +438,25 @@
             }
         },
         {
+            "Key": "76c2e70b-7550-478e-9c0b-4e2e5272bac7",
+            "Value": {
+                "id": "b9d27fb7-db49-4293-ad18-2bd148dbe0dc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_bandages\/spr_bandages.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7b24631e-8a6a-4ec2-88dc-059c40017905",
             "Value": {
                 "id": "d9c7fa06-0a91-4bba-bac6-45b254c3fd60",
@@ -435,6 +473,25 @@
                 ],
                 "resourcePath": "views\/7b24631e-8a6a-4ec2-88dc-059c40017905.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7c4929da-bc31-4d96-8af8-dc7f55537cca",
+            "Value": {
+                "id": "0bb50cc6-7377-4cb7-bbfe-aff752f2fd9c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_bandages\/obj_bandages.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -587,6 +644,44 @@
                 ],
                 "resourcePath": "views\/ce4290ab-868f-4671-8bfc-1f1f37d61b86.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d70393f5-4488-4a18-b8b3-ab226774355f",
+            "Value": {
+                "id": "1cf04dc5-15d1-4bd6-aa0f-3cee82c974cb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/tileset0\/tileset0.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "e47da29c-8489-4582-a657-e7ae0245ab24",
+            "Value": {
+                "id": "83038f18-75d2-4896-87a3-204811a95df0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_firsttileset\/spr_firsttileset.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
