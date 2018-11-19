@@ -1,3 +1,9 @@
-instance_destroy();
+//Reduce enemy hitpoints on collision
+with(other)
+{
+	zombieHP -= 20;
+	hit = 1;
+}
 
-obj_zombie.zombieHP -= 20;
+//destroy the bullet
+instance_destroy();
