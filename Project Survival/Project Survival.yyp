@@ -457,6 +457,25 @@
             }
         },
         {
+            "Key": "5b55b442-47a2-4e42-991d-755b47a626de",
+            "Value": {
+                "id": "76271e82-5aac-4186-84bc-b7d6b29096e6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_rifle_ammo_bryan\/spr_rifle_ammo_bryan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "62276416-2737-42f6-ab9b-25cb69e280ae",
             "Value": {
                 "id": "1f9db351-cf41-40f3-89c5-faf934a8f009",
