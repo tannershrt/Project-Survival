@@ -210,6 +210,25 @@
             }
         },
         {
+            "Key": "1ab0ca1f-29c5-40aa-9955-7f7ac0376f99",
+            "Value": {
+                "id": "1d1b5f35-ab8f-41f2-b777-ffbd59615613",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_rifle\/spr_rifle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "206e077d-e796-4837-92d3-059a963aa62a",
             "Value": {
                 "id": "306aad66-b476-4e8d-a0ce-e1e4ab42bb78",
@@ -833,6 +852,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_box\/spr_box.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a52aa9dd-3f77-497c-aa87-28ee23f98483",
+            "Value": {
+                "id": "c50e960e-8757-4741-bf53-a3e1dd48ac40",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_revolver\/spr_revolver.yy",
                 "resourceType": "GMSprite"
             }
         },
