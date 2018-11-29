@@ -1,4 +1,3 @@
-
 if (in_a_menu == false){
 
 	// Movement
@@ -127,7 +126,7 @@ if (in_a_menu == false){
 	
 	image_angle = point_direction(x, y, mouse_x, mouse_y);
 }
-	
+
 pistol_fire_rate -= 1;
 	
 
