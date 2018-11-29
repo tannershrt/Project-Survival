@@ -5,20 +5,17 @@ var ch = camera_get_view_height(view_camera[0]);
 var c4 = ch / 2;
 
 
+
 if (obj_box.draw_menu == true){
 	draw_sprite(spr_box_menu, 1, cx + cw / 2, cy + c4);
+	draw_text(cx+cw/2 - 50,cy+250, string(obj_box.box_slot1Item));
+	draw_sprite(obj_inventory.item[obj_box.box_slot1Item], 1, cx, cy);
 	
-	if(obj_box.firstOpened == true){
-		obj_box.box_slot1Item = irandom(obj_inventory.numOfGameItems);
-		obj_box.box_slot2Item = irandom(obj_inventory.numOfGameItems);
-		obj_box.box_slot3Item = irandom(obj_inventory.numOfGameItems);
-		obj_box.firstOpened = false;
-	}
-	if(obj_box.box_slot1Item == 1){
-		draw_sprite(spr_medkit, 1, cx, cy);
-	} else if(obj_box.box_slot1Item == 2){
-		draw_sprite(spr_drumStick, 1, cx, cy);
-	} else if(obj_box.box_slot1Item == 3){
-		draw_sprite(spr_generic_pistol, 1, cx, cy);
-	}
+	obj_box.opened = true;
+} 
+
+if(obj_box.draw_menu == false && obj_box.opened == false){
+	obj_box.box_slot1Item = irandom(obj_inventory.numOfGameItems);
+	obj_box.box_slot2Item = irandom(obj_inventory.numOfGameItems);
+	obj_box.box_slot3Item = irandom(obj_inventory.numOfGameItems);
 }
