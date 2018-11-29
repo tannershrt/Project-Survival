@@ -1,6 +1,7 @@
 if (keyboard_check(ord("E")) && obj_inventory.numOfItems <= 4){
 
-	instance_destroy();
+	x = -100;
+	y = -100;
 	
 	obj_inventory.numOfItems += 1;
 	
