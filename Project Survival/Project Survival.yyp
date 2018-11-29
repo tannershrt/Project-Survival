@@ -229,6 +229,25 @@
             }
         },
         {
+            "Key": "2016761d-9ab6-461f-aabe-6dacb4f279fa",
+            "Value": {
+                "id": "a7562732-ae3a-4dce-9579-7c2833ed5b63",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_beretta\/spr_beretta.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "206e077d-e796-4837-92d3-059a963aa62a",
             "Value": {
                 "id": "306aad66-b476-4e8d-a0ce-e1e4ab42bb78",
