@@ -8,6 +8,7 @@ var c4 = ch / 2;
 
 if (obj_box.draw_menu == true){
 	draw_sprite(spr_box_menu, 1, cx + cw / 2, cy + c4);
+	draw_text(cx+cw/2 - 50,cy+250, string(obj_box.box_slot1Item));
 	draw_sprite(obj_inventory.item[obj_box.box_slot1Item], 1, cx, cy);
 	
 	obj_box.opened = true;
