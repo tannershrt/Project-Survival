@@ -1,1 +1,2 @@
-hearts = 300;
+hearts = 100;
+hit = 0;

@@ -38,3 +38,5 @@ if (hearts <= 0){
 image_angle = point_direction(x, y, mouse_x, mouse_y);
 
 //wussup
+//Gradually reduce "just hit" effect
+if (hit > 0) hit -= 0.05; else hit = 0;
