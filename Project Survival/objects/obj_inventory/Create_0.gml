@@ -1,7 +1,7 @@
 numOfItems = 0;
 lastSlotSelected = 1;
 numOfGameItems = 3;
-item = [spr_empty, spr_medkit_in_container, spr_drumStick_in_container, spr_generic_pistol_in_container];
+item = [spr_empty, spr_medkit, spr_drumStick, spr_generic_pistol];
 
 slot1Full  = false;
 slot2Full = false;
