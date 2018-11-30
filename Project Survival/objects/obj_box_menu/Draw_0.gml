@@ -4,7 +4,7 @@ with (obj_box){
 	var cw = camera_get_view_width(view_camera[0]);
 	var ch = camera_get_view_height(view_camera[0]);
 	var c4 = ch / 2;
-	if (global.draw_menu == true){
+	if (global.draw_menu == true && currently_open == true){
 		draw_sprite(spr_box_menu, 1, cx + cw / 2, cy + c4);
 		
 		if(last_box_slot_selected == 1){
