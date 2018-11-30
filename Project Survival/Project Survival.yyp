@@ -72,7 +72,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_menus\/obj_menus.yy",
+                "resourcePath": "objects\/obj_box_menu\/obj_box_menu.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1046,9 +1046,9 @@
             }
         },
         {
-            "Key": "e7d16094-9814-445d-bffb-fdc3ae2beeba",
+            "Key": "eba7d75f-a8fa-4fb2-ac5c-d1b8adb1ff90",
             "Value": {
-                "id": "0ab8cb5c-9f2d-4577-af41-c52cbdffe528",
+                "id": "863086b0-f662-4ec0-b856-32436dd6169e",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -1060,8 +1060,8 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/spr_player_bryan\/spr_player_bryan.yy",
-                "resourceType": "GMSprite"
+                "resourcePath": "objects\/obj_game\/obj_game.yy",
+                "resourceType": "GMObject"
             }
         },
         {

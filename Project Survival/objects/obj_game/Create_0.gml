@@ -1,0 +1,1 @@
+global.draw_menu = false
