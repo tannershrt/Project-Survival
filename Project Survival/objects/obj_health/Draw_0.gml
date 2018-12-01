@@ -18,7 +18,7 @@ if(mouse_check_button(mb_left) && obj_inventory.lastSlotSelected == 1 && obj_inv
 }
 
 if(health_message_cooldown > 0){
-		draw_text(cx+cw/2 - 50,cy+400, "Health Is Full");
+	draw_text(cx+cw/2 - 50,cy+400, "Health Is Full");
 }
 
 health_message_cooldown -= 1;
