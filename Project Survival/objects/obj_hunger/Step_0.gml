@@ -1,4 +1,8 @@
-hungerCoolDown -= 1;
+if(obj_player.running == true){
+	hungerCoolDown -= 1.5;
+} else{
+	hungerCoolDown -= 1;
+}
 
 if (hungerCoolDown <= 0 && hunger > 0){
 	hunger -= 1;

@@ -1,5 +1,5 @@
-if (instance_exists(obj_player) && distance_to_object(obj_player) < 300) {
-	zombie_speed = 2;
+if (instance_exists(obj_player) && distance_to_object(obj_player) < 500) {
+	zombie_speed = 3 + random_range(-1,2);
 	move_towards_point(obj_player.x,obj_player.y, zombie_speed);
 	image_angle = direction;
 	last_image_angle = image_angle;
