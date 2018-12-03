@@ -970,6 +970,25 @@
             }
         },
         {
+            "Key": "b28f2b98-1100-4fcf-9a1d-14c785714110",
+            "Value": {
+                "id": "5d00c394-6a48-4a75-b171-9ef4555acb01",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_ammo\/obj_ammo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b5e3f15d-dc87-4335-8c9e-20a1ea5d96fe",
             "Value": {
                 "id": "ec0bf983-a804-48b1-b1b2-ab48ebcd19d1",
