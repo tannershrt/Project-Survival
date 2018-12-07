@@ -40,3 +40,22 @@ image_angle = point_direction(x, y, mouse_x, mouse_y);
 //wussup
 //Gradually reduce "just hit" effect
 if (hit > 0) hit -= 0.05; else hit = 0;
+
+if(keyboard_check(ord("1"))&(instance_exists(obj_gun1)))
+{
+weapon = 1;
+cooldown = 5;
+}
+if(keyboard_check(ord("2"))&(instance_exists(obj_gun2)))
+{
+weapon = 2;
+cooldown = 15;
+}
+if(keyboard_check(ord("3"))&(instance_exists(obj_minigun)))
+{
+weapon = 3;
+cooldown = 1;
+}
+
+
+
