@@ -153,6 +153,25 @@
             }
         },
         {
+            "Key": "121676eb-68e1-4843-8ea5-e16b2a0a88bb",
+            "Value": {
+                "id": "db3daaa0-cffa-4d5f-b735-16cd64e64c77",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite19\/sprite19.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1245350d-feaa-400d-8709-74ba6ef9c39c",
             "Value": {
                 "id": "88b1d398-6695-4e67-b092-ab2b117c9a83",
@@ -832,7 +851,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/spr_rifle_ammo_bryan\/spr_rifle_ammo_bryan.yy",
+                "resourcePath": "sprites\/spr_light_ammo_bryan\/spr_light_ammo_bryan.yy",
                 "resourceType": "GMSprite"
             }
         },
