@@ -59,3 +59,4 @@ cooldown = 1;
 
 
 
+if(keyboard_check(ord("B"))) instance_create_layer(random(room_width),random(room_height),"Instances",obj_zombie)
