@@ -56,6 +56,11 @@ if(keyboard_check(ord("3"))&(instance_exists(obj_minigun)))
 weapon = 3;
 cooldown = 1;
 }
+if(keyboard_check(ord("4"))&(instance_exists(obj_handcannon)))
+{
+weapon = 4;
+cooldown = 30;
+}
 
 
 
