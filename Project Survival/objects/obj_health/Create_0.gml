@@ -1,1 +1,0 @@
-thehealth = 100;
